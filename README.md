@@ -1,3 +1,4 @@
+<h1><img src="./head_img.png"></h1>
 <h1>📌Techs that I've used once📌</h1>    
 
 
