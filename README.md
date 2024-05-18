@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
-
 <!--
 **asa9874/asa9874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
