@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=asa9874's%20github&fontSize=90" />
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asa9874&show_icons=true&theme=tokyonight)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa9874&exclude_repo=github-readme-stats,anuraghazra.github.io)
