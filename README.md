@@ -1,8 +1,14 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=JongBeom's Github&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=blue_navy )
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=asa9874's%20github&fontSize=90" />
 
 
 
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asa9874&show_icons=true&theme=tokyonight)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa9874&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+
+
+
+
 
 
 
