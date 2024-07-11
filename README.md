@@ -58,5 +58,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asa9874&show_icons=true&theme=radical)      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa9874&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
